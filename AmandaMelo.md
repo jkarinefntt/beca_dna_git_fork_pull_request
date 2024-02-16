@@ -1,0 +1,1 @@
+Meu nome é Amanda Melo, sou de Recife. Já trabalhei como fullstack na Liferay por 1 ano e 6 meses. 
